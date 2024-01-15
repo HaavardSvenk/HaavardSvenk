@@ -1,7 +1,8 @@
 - 👋 Håvard Svenkerud
 - 🇳🇴 11.09.1992 / Norway
 - 👀 Software dev / tech / running / cycling / lifting
-- 🌱 Studying information technology at HVL Bergen
+- 👨‍💻 Tietoevry Create
+- 🌱 Information technology at HVL Bergen
 - 📫 Haavard.s92@gmail.com
 <!---
 HaavardSvenk/HaavardSvenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
